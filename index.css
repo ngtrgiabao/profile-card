@@ -16,7 +16,7 @@ body {
     font-size: 1.6rem;
     font-weight: normal;
     height: 100vh;
-    background-image: linear-gradient(to left bottom, #4e68d7, #a86ab7);
+    background-image: linear-gradient(to left, #4e68d7, #a86ab7);
     color: white;
 }
 
@@ -94,4 +94,3 @@ img {
     border: none;
     margin: 0 auto;
 }
-
