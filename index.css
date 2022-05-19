@@ -20,6 +20,13 @@ body {
     color: white;
 }
 
+.card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
 .card {
     background: #202125;
     width: 30rem;
